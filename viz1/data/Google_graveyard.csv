@@ -1,0 +1,286 @@
+SLNO,Name,Description,Category,Start,End,Duration,Total years
+1,Google Optimize,Google Optimize was a web analytics and testing tool that allowed users to run experiments aimed at increasing visitor conversion rates and overall satisfaction,Service,2012,2023,2012 - 2023,11
+2,Google Cloud IoT Core,"Google Cloud IoT Core was a managed service designed to let customers securely connect, manage, and ingest data from globally dispersed devices.",Service,2019,2023,2019 - 2023,4
+3,Grasshopper,"Grasshopper was a free mobile and web app for aspiring programmers that taught introductory JavaScript and coding fundamentals using fun, bite-sized puzzles",App,2019,2023,2019 - 2023,4
+4,Conversational Actions,"Conversational Actions extended the functionality of Google Assistant by allowing 3rd party developers to create custom experiences, or conversations, for users of Google Assistant",Service,2018,2023,2018 - 2023,5
+5,Google Currents (2019),Google Currents was a service that provided social media features similar to Google+ for Google Workspace customers.,Service,2019,2023,2019 - 2023,4
+6,Google Street View (standalone app),Google Street View app was an Android and iOS app that enabled people to get a 360 degree view of locations around the world,App,2010,2023,2010 - 2023,13
+7,Jacquard,"Jacquard was a small tag to make it easier and more intuitive for people to interact with technology in their everyday lives, without having to constantly pull out their devices or touch screens.",Hardware,2014,2023,2014 - 2023,9
+8,Google Code Competitions,"Google Code Jam, Kick Start, and Hash Code were competitive programming competitions open to programmers around the world.",Service,2003,2023,2003 - 2023,20
+9,Google Stadia,"Google Stadia was a cloud gaming service combining a WiFi gaming controller and allowed users to stream gameplay through web browsers, TV, mobile apps, and Chromecast.",Service,2019,2023,2019 - 2023,4
+10,Google OnHub,"Google OnHub was a series of residential wireless routers manufactured by Asus and TP-Link that were powered by Google software, managed by Google apps, and offered enhanced special features like Google Assistant.",Hardware,2015,2023,2015 - 2023,8
+11,YouTube Originals,"Killed 3 months ago, YouTube Originals was a variety of original content including scripted series, educational videos, and music and celebrity programming.",Service,2016,2022,2016 - 2022,6
+12,Threadit,Threadit was a tool for recording and sharing short videos.,App,2021,2022,2021 - 2022,1
+13,Duplex on the Web,Duplex on the Web was a Google Assistant technology that automated tasks on the web on behalf of a user; such as booking movie tickets or making restaurant reservations.,Service,2019,2022,2019 - 2022,3
+14,Google Hangouts,Google Hangouts was a cross-platform instant messaging service.,Service,2013,2022,2013 - 2022,9
+15,Google Surveys,Google Surveys was a business product by Google aimed at facilitating customized market research.,Service,2012,2022,2012 - 2022,10
+16,YouTube Go,YouTube Go was an app aimed at making YouTube easier to access on mobile devices in emerging markets through special features like downloading video on wifi for viewing later.,App,2017,2022,2017 - 2022,5
+17,Google My Business (app),Google My Business was an app that allowed businesses to manage their Google Maps Business profiles.,App,2018,2022,2018 - 2022,4
+18,Google Chrome Apps,Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser.,Service,2010,2022,2010 - 2022,12
+19,Kormo Jobs,"Kormo Jobs was an app that allowed users in primarily India, Indonesia, and Bangladesh to help them find jobs nearby that match their skills and interests.",App,2019,2022,2019 - 2022,3
+20,Android Auto for phone screens,"Android Auto for phone screens was an app that allowed the screen of the phone to be used as an Android Auto interface while driving, intended for vehicles that did not have a compatible screen built in. It was over 2 years old.",App,2019,2022,2019 - 2022,3
+21,Google Duo,Google Duo was a video calling app that allowed people to call someone from their contact list.,Service,2016,2022,2016 - 2022,6
+22,G Suite (Legacy Free Edition),G Suite (Legacy Free Edition) was a free tier offering some of the services included in Google's productivity suite.,Service,2006,2022,2006 - 2022,16
+23,Google Assistant Snapshot,Google Assistant Snapshot was the successor to Google Now that provided predictive cards with information and daily updates in the Google app for Android and iOS.,Service,2018,2022,2018 - 2022,4
+24,Cameos on Google,Cameos on Google allowed celebrities and other public figures to record video responses to the most common questions asked about them which would be shown to users in Google Search results.,Service,2018,2022,2018 - 2022,4
+25,Android Things,Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices.,Service,2015,2022,2015 - 2022,7
+26,AngularJS,AngularJS was a JavaScript open-source front-end web framework based on MVC pattern using a dependency injection technique.,Service,2010,2021,2010 - 2021,11
+27,Streams,"Streams was a ""clinician support app"" which aimed to improve clinical decision-making and patient safety across hospitals in the United Kingdom.",App,2017,2021,2017 - 2021,4
+28,Material Gallery,"Material Gallery is a collaboration tool for UI designers, optimized for Google's Material Design, with mobile preview apps and a Sketch plugin.",Service,2018,2021,2018 - 2021,3
+29,Google Toolbar,Google Toolbar was a web browser toolbar that provided a search box in web browsers like Internet Explorer and Firefox.,Service,2000,2021,2000 - 2021,21
+30,Google Sites (Classic),Google Sites (Classic) allowed users to build and edit websites and wiki portals for private and public use.,Service,2008,2021,2008 - 2021,13
+31,Your News Update,"Your News Update was a service that offered an audio digest of a mix of short news stories chosen at that moment based on a user's interests, location, user history, and preferences, as well as the top news stories out there.",Service,2019,2021,2019 - 2021,2
+32,Google My Maps,My Maps was an Android application that enabled users to create custom maps for personal use or sharing on their mobile device.,App,2014,2021,2014 - 2021,7
+33,Backup and Sync,Backup and Sync was a desktop software tool for Windows and macOS that allowed users to sync files from Google Drive to their local machine.,App,2017,2021,2017 - 2021,4
+34,Google Bookmarks,Google Bookmarks was a private web-based bookmarking service not integrated with any other Google services.,Service,2005,2021,2005 - 2021,16
+35,Chatbase,"Analytics platform for Google's Dialogflow chatbot & others, started by the Google-funded Area120 incubator then retired and partially merged into Dialogflow itself.",Service,2017,2021,2017 - 2021,4
+36,VR180 Creator,VR180 Creator allowed users to edit video taken on 180-degree and 360-degree devices on multiple operating systems.,App,2018,2021,2018 - 2021,3
+37,Posts on Google,Posts on Google allowed notable individuals with knowledge graph panels to author specific content that would appear in Google Search results.,Service,2012,2021,2012 - 2021,9
+38,Fitbit Coach,Fitbit Coach (formerly Fitstar) was a video-based bodyweight workout app that used AI to personalize workouts based on user feedback.,App,2013,2021,2013 - 2021,8
+39,Fitstar Yoga,Fitstar Yoga was a video-based yoga app that created unique yoga sessions based on user preference and skill level.,App,2014,2021,2014 - 2021,7
+40,Tour Builder,Tour Builder allowed users to create and share interactive tours inside Google Earth with photos and videos of locations.,Service,2013,2021,2013 - 2021,8
+41,Expeditions,"Expeditions is a program for providing virtual reality experiences to school classrooms through Google Cardboard viewers, allowing educators to take their students on virtual field trips.",App,2015,2021,2015 - 2021,6
+42,Tour Creator,"Tour Creator allowed users to build immersive, 360° guided tours that could be viewed with VR devices.",App,2018,2021,2018 - 2021,3
+43,Poly,Poly was a distribution platform for creators to share 3D objects.,Service,2017,2021,2017 - 2021,4
+44,Google Play Movies & TV,"Google Play Movies & TV, originally Google TV, was an app used to view purchased and rented media and was ultimately replaced with YouTube.",App,2011,2021,2011 - 2021,10
+45,Measure,Measure allowed users to take measurements of everyday objects with their device's camera utilizing ARCore technology.,App,2016,2021,2016 - 2021,5
+46,Zync Render,Zync render was a cloud render platform for animation and visual effects.,Service,2014,2021,2014 - 2021,7
+47,Timely,"Timely Alarm Clock was an Android application providing an alarm, stopwatch, and timer functionality with synchronization across devices.",App,2013,2021,2013 - 2021,8
+48,Polymer,Polymer was an open-source JS library for web components,Service,2015,2021,2015 - 2021,6
+49,Google Shopping Mobile App,"The Google Shopping Mobile App, which had absorbed Google Express when it launched, provided a native shopping experience with a personalized homepage for mobile users. It is now retired and the functionality lives on in the Shopping Tab.",App,2019,2021,2019 - 2021,2
+50,Google Public Alerts,Google Public Alerts was an online notification service owned by Google.org that sends safety alerts to various countries.,Service,2012,2021,2012 - 2021,9
+51,Google Go Links,(also known as Google Short Links) was a URL shortening service. It also supported custom domain for customers of Google Workspace (formerly G Suite (formerly Google Apps)).,Service,2010,2021,2010 - 2021,11
+52,Google Crisis Map,"Google Crisis Map was a website that allowed to create, publish, and share maps by combining layers from anywhere on the web.",Service,2011,2021,2011 - 2021,10
+53,Google Cardboard,"Google Cardboard was a low-cost, virtual reality (VR) platform named after its folded cardboard viewer into which a smartphone was inserted.",Hardware,2014,2021,2014 - 2021,7
+54,Swift for TensorFlow,Swift for TensorFlow (S4TF) was a next-generation platform for machine learning with a focus on differentiable programming.,Service,2018,2021,2018 - 2021,3
+55,Tilt Brush,"Tilt Brush was a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett.",App,2016,2021,2016 - 2021,5
+56,Loon,Loon was a service to provide internet access via an array of high-altitude balloons hovering in the Earth's stratosphere,Service,2014,2021,2014 - 2021,7
+57,App Maker,App Maker was a tool that allowed its users to build and deploy custom business apps easily and securely on the web without writing much code.,Service,2016,2021,2016 - 2021,5
+58,Google Cloud Print,"Google Cloud Print allowed users to 'print from anywhere;' to print from web, desktop, or mobile to any Google Cloud Print-connected printer.",Service,2010,2020,2010 - 2020,10
+59,Google Home Max,"Google Home Max was a large, stereo smart speaker with two tweeters and subwoofers, aux input, and a USB-C input (for wired ethernet) featuring Smart Sound machine learning technology.",Hardware,2017,2020,2017 - 2020,3
+60,Science Journal,Science Journal was a mobile app that helped you run science experiments with your smartphone using the device's onboard sensors.,App,2016,2020,2016 - 2020,4
+61,YouTube VR (SteamVR),YouTube VR allowed you to easily find and watch 360 videos and virtual reality content with SteamVR-compatible headsets.,App,2017,2020,2017 - 2020,3
+62,Trusted Contacts,Trusted Contacts was an app that allowed users to share their location and view the location of specific users.,App,2016,2020,2016 - 2020,4
+63,Google Play Music,"Google Play Music was a music and podcast streaming service, and online music locker.",Service,2011,2020,2011 - 2020,9
+64,Nest Secure,"Nest Secure was a security system with an alarm, keypad, and motion sensor with an embedded microphone.",Hardware,2017,2020,2017 - 2020,3
+65,YouTube Community Contributions,"YouTube Community Contributions allowed users to contribute translations for video titles or submit descriptions, closed captions or subtitles on YouTube content.",Service,2016,2020,2016 - 2020,4
+66,Hire by Google,"Google Hire was an applicant tracking system to help small to medium businesses distribute jobs, identify and attract candidates, build strong relationships with candidates, and efficiently manage the interview process.",Service,2017,2020,2017 - 2020,3
+67,Password Checkup extension,Password Checkup provided a warning to users if they were using a username and password combination checked against over 4 billion credentials that Google knew to be unsafe.,App,2019,2020,2019 - 2020,1
+68,Playground AR,Playground AR (aka AR Stickers) allowed users to place virtual characters and objects in augmented reality via the Camera App on Pixel phones.,App,2017,2020,2017 - 2020,3
+69,Focals by North,"Focals were a custom-built smart glasses product with a transparent, holographic display that allowed users to read and respond to text messages, navigate turn-by-turn directions, check the weather, and integrate with third-party services like Uber and Amazon Alexa.",Hardware,2019,2020,2019 - 2020,1
+70,CallJoy,CallJoy was an Area 120 project that provided phone automation for small-to-medium businesses allowing them to train the bot agent with responses to common customer questions.,App,2019,2020,2019 - 2020,1
+71,Google Photos Print,Google Photos Print was a subscription service that automatically selected the best ten photos from the last thirty days which were mailed to user's homes.,Service,2020,2020,2020 - 2020,0
+72,Pigeon Transit,"Pigeon Transit was a transit app that used crowdsourced information about delays, crowded trains, escalator outages, live entertainment, dirty or unsafe conditions.",App,2018,2020,2018 - 2020,2
+73,Enhanced 404 Pages,Enhanced 404 Pages was a JavaScript library that added suggested URLs and a search box to a website's 404 Not Found page.,Service,2008,2020,2008 - 2020,12
+74,Shoelace,Shoelace was an app used to find group activities with others who share your interests.,App,2019,2020,2019 - 2020,1
+75,Neighbourly,"Neighbourly was a mobile app designed to help you learn about your neighborhood by asking other residents, and find out about local services and facilities in your area from people who live around you.",App,2018,2020,2018 - 2020,2
+76,Fabric,"Fabric was a platform that helped mobile teams build better apps, understand their users, and grow their business.",Service,2014,2020,2014 - 2020,6
+77,Google Contributor,"Google Contributor was a program run by Google that allowed users in the Google Network of content sites to view the websites without any advertisements that are administered, sorted, and maintained by Google.",Service,2014,2020,2014 - 2020,6
+78,Material Theme Editor,Material Theme Editor is a plugin for Sketch App which allows you to create a material-based design system for your app.,App,2018,2020,2018 - 2020,2
+79,Google Station,"Google Station is a service that gives partners an easy set of tools to roll out Wi-Fi hotspots in public places. Google Station provides software and guidance on hardware to turn fiber connections into fast, reliable, and safe Wi-Fi zones.",Service,2015,2020,2015 - 2020,5
+80,One Today,One Today was an app that allowed users to donate $1 to different organizations and discover how their donation would be used.,App,2013,2020,2013 - 2020,7
+81,Androidify,Androidify allowed users to create a custom Android avatar for themselves and others.,App,2011,2020,2011 - 2020,9
+82,Google Fiber TV,Google Fiber TV was an IPTV service that was bundled with Google Fiber.,Service,2012,2020,2012 - 2020,8
+83,Field Trip,Field Trip was a mobile app that acted as a virtual tour guide by cross-referencing multiple sources of information to provide users information about points of interest near them.,App,2012,2019,2012 - 2019,7
+84,AdSense (mobile app),AdSense (mobile app) allowed users to manage their AdSense accounts in a native app for iOS and Android.,App,2013,2019,2013 - 2019,6
+85,Google Correlate,Google Correlate was a service that provided users information about how strongly the frequency of multiple search terms correlates with each other over a specified time interval.,Service,2011,2019,2011 - 2019,8
+86,Google Translator Toolkit,Google Translator Toolkit was a web application which allowed translators to edit and manage translations generated by Google Translate.,Service,2009,2019,2009 - 2019,10
+87,Google Fusion Tables,"Google Fusion Tables was a web service for data management that provided a means for visualizing data in different charts, maps, and graphs.",Service,2009,2019,2009 - 2019,10
+88,Google Bulletin,Google Bulletin was a hyperlocal news service where users could post news from their neighborhood and allow others in the same areas to hear those stories.,Service,2018,2019,2018 - 2019,1
+89,Touring Bird,"Touring Bird was an Area 120 incubator project which helped users compare prices, book tours, tickets, and experiences, and learn about top destinations around the world.",Service,2018,2019,2018 - 2019,1
+90,Game Builder,Game Builder was a multiplayer 3D game environment for creating new games without coding experience.,App,2019,2019,2019 - 2019,0
+91,Datally,"Killed over 3 years ago, Datally (formerly Triangle) was a smart app by Google that helped you save, manage, and share your mobile data.",App,2017,2019,2017 - 2019,2
+92,Google Clips,Google Clips was a miniature clip-on camera that could automatically capture interesting or relevant video clips determined by machine learning algorithms.,Hardware,2017,2019,2017 - 2019,2
+93,Google Daydream,Google Daydream was a virtual reality platform and set of hardware devices that worked with certain Android phones.,Hardware,2016,2019,2016 - 2019,3
+94,YouTube Leanback,YouTube Leanback was an optimized version of YouTube used for television web browsers and WebView application wrappers.,Service,2010,2019,2010 - 2019,9
+95,Message Center,Message Center is a web console where Gmail users view and manage spam email messages.,Service,2013,2019,2013 - 2019,6
+96,Follow Your World,Follow Your World allowed users to register points of interest on Google Maps and receive email updates whenever the imagery is updated.,Service,2011,2019,2011 - 2019,8
+97,G Suite Training,G Suite Training (previously known as Synergyse) provided interactive and video-based training for 20 Google G Suite products in nine languages through a website and a Chrome extension.,Service,2013,2019,2013 - 2019,6
+98,YouTube Messages,YouTube Messages was a direct messaging feature that allowed users to share and discuss videos one-on-one and in groups on YouTube.,Service,2017,2019,2017 - 2019,2
+99,YouTube for Nintendo 3DS,YouTube for Nintendo 3DS allowed users to stream YouTube videos on the portable gaming console.,App,2013,2019,2013 - 2019,6
+100,Works with Nest API,Works with Nest was an API that allowed external services to access and control Nest devices. This enabled the devices to be used with third-party home automation platforms and devices.,Service,2014,2019,2014 - 2019,5
+101,Google Trips,"Google Trips was a mobile app that allowed users to plan for upcoming travel by facilitating flight, hotel, car, and restaurant reservations from user's email alongside summarized info about the user's destination.",App,2016,2019,2016 - 2019,3
+102,Hangouts on Air,Hangouts on Air allowed users to host a multi-user video call while recording and streaming the call on YouTube.,Service,2011,2019,2011 - 2019,8
+103,Personal Blocklist,Personal Blocklist was a Chrome Web Extension by Google that allowed users to block certain websites from appearing in Google search results.,Service,2011,2019,2011 - 2019,8
+104,Dragonfly,Dragonfly was a search engine designed to be compatible with China's state censorship provisions.,Service,2018,2019,2018 - 2019,1
+105,Google Jump,Google Jump was a cloud-based VR media solution that enabled 3D-360 media production by integrating customized capture solutions with best-in-class automated stitching.,Service,2015,2019,2015 - 2019,4
+106,Blog Compass,Blog Compass was a blog management tool that integrated with WordPress and Blogger available only in India.,App,2018,2019,2018 - 2019,1
+107,Areo,"Areo was a mobile app that allowed users in Bangalore, Mumbai, Delhi, Gurgaon, and Pune to order meals from nearby restaurants or schedule appointments with local service professionals, including electricians, painters, cleaners, plumbers, and more.",App,2017,2019,2017 - 2019,2
+108,YouTube Gaming,YouTube Gaming was a video gaming-oriented service and app for videos and live streaming.,Service,2015,2019,2015 - 2019,4
+109,Google Cloud Messaging (GCM),Google Cloud Messaging (GCM) was a notification service that enabled developers to send messages between servers and client apps running on Android or Chrome.,Service,2012,2019,2012 - 2019,7
+110,Data Saver Extension for Chrome,Data Saver was an extension for Chrome that routed web pages through Google servers to compress and reduce the user's bandwidth.,Service,2015,2019,2015 - 2019,4
+111,Inbox by Gmail,Inbox by Gmail aimed to improve email through several key features.,Service,2015,2019,2015 - 2019,4
+112,Google+,Google+ was an Internet-based social network.,Service,2011,2019,2011 - 2019,8
+113,Google URL Shortener,"Google URL Shortener, also known as goo.gl, was a URL shortening service.",Service,2009,2019,2009 - 2019,10
+114,Google Spotlight Stories,Google Spotlight Stories was an app and content studio project which created immersive stories for mobile and VR.,Service,2013,2019,2013 - 2019,6
+115,Google Allo,"Google Allo was an instant messaging mobile app for Android, iOS, and Web with special features like a virtual assistant and encrypted mode.",App,2016,2019,2016 - 2019,3
+116,Google Notification Widget (Mr. Jingles),Mr. Jingles (aka Google Notification Widget) displayed alerts and notifications from across multiple Google services.,Service,2015,2019,2015 - 2019,4
+117,YouTube Video Annotations,"YouTube Video Annotations allowed video creators to add interactive commentary to their videos containing background information, branching (""choose your own adventure"" style) stories, or links to any YouTube video, channel, or search results page.",Service,2008,2019,2008 - 2019,11
+118,Google Realtime API,Google Realtime API provided ways to synchronize resources between devices. It operated on files stored on Google Drive.,Service,2013,2019,2013 - 2019,6
+119,Chromecast Audio,Chromecast Audio was a device that allowed users to stream audio from any device to any speaker with an audio input.,Hardware,2015,2019,2015 - 2019,4
+120,Google Search Appliance,Google Search Appliance was a rack-mounted device that provided document indexing functionality.,Hardware,2002,2018,2002 - 2018,16
+121,Google Nearby Notifications,Google Nearby Notifications were a proximity marketing tool using Bluetooth beacons and location-based data to serve content relevant to an Android user's real-world location.,Service,2015,2018,2015 - 2018,3
+122,Google Pinyin IME,"Google Pinyin IME was an input method that allowed users on multiple operating systems to input characters from pinyin, the romanization of Standard Mandarin Chinese.",Service,2007,2018,2007 - 2018,11
+123,Google News & Weather,Google News & Weather was a news aggregator application available on the Android and iOS operating systems.,App,2016,2018,2016 - 2018,2
+124,Reply,Reply was a mobile app that let users insert Smart Replies (pre-defined replies) into conversations on messaging apps.,App,2018,2018,2018 - 2018,0
+125,Tez,"Tez was a mobile payments service by Google, targeted at users in India. It was rebranded to Google Pay.",Service,2017,2018,2017 - 2018,1
+126,Google Goggles,Google Goggles was used for searches based on pictures taken by handheld devices.,Service,2010,2018,2010 - 2018,8
+127,Save to Google Chrome Extension,Save to Google Chrome Extension enabled you to quickly save a page link with image and tags to a Pocket-like app.,Service,2016,2018,2016 - 2018,2
+128,Google Play Newsstand,Google Play Newsstand was a news aggregator and digital newsstand service.,App,2013,2018,2013 - 2018,5
+129,Encrypted Search,Encrypted Search provided users with anonymous internet searching.,Service,2010,2018,2010 - 2018,8
+130,Google Cloud Prediction API,"Google Cloud Prediction API was a PaaS for machine learning (ML) functionality to help developers build ML models to create application features such as recommendation systems, spam detection, and purchase prediction.",Service,2010,2018,2010 - 2018,8
+131,qpx-express-API,"A service that Google developed for long-tail travel clients. ITA Software will create a new, easier way for users to find better flight information online, which should encourage more users to make their flight purchases online.",Service,2010,2018,2010 - 2018,8
+132,Google Site Search,Google's Site Search was a service that enabled any website to add a custom search field powered by Google.,Service,2008,2018,2008 - 2018,10
+133,reCAPTCHA Mailhide,reCAPTCHA Mailhide allowed users to mask their email address behind a captcha to prevent robots from scraping the email and sending spam.,Service,2010,2018,2010 - 2018,8
+134,SoundStage,SoundStage was a virtual reality music sandbox built specifically for room-scale VR.,Service,2016,2018,2016 - 2018,2
+135,Project Tango,Project Tango was an API for augmented reality apps that was killed and replaced by ARCore.,Service,2014,2017,2014 - 2017,3
+136,Google Portfolios,Portfolios was a feature available in Google Finance to track personal financial securities.,Service,2006,2017,2006 - 2017,11
+137,YouTube Video Editor,"YouTube Video Editor was a web-based tool for editing, merging, and adding special effects to video content.",Service,2010,2017,2010 - 2017,7
+138,Trendalyzer,Trendalyzer was a data trend viewing platform.,Service,2007,2017,2007 - 2017,10
+139,Glass OS,Glass OS (Google XE) was a version of Google's Android operating system designed for Google Glass.,Service,2013,2017,2013 - 2017,4
+140,Google Map Maker,Google Map Maker was a mapping and map editing service where users were able to draw features directly onto a map.,Service,2008,2017,2008 - 2017,9
+141,Chromebook Pixel,"Chromebook Pixel was a first-of-its-kind laptop built by Google that ran Chrome OS, a Linux kernel-based operating system.",Hardware,2013,2017,2013 - 2017,4
+142,Google Spaces,Google Spaces was an app for group discussions and messaging.,Service,2016,2017,2016 - 2017,1
+143,Google Hands Free,Google Hands Free was a mobile payment system that allowed users to pay their bill using Bluetooth to connect to payment terminals by saying 'I'll pay with Google.',Service,2016,2017,2016 - 2017,1
+144,Build with Chrome,Build with Chrome was a collaboration between Chrome and the LEGO Group that allowed users to build and publish LEGO creations to any digital plot of land in the world through Google Maps.,Service,2014,2017,2014 - 2017,3
+145,Gesture Search,"Google Gesture Search allowed users to search contacts, applications, settings, music, and bookmark on their Android device by drawing letters or numbers onto the screen.",App,2010,2017,2010 - 2017,7
+146,Panoramio,Panoramio was a geo-location tagging and photo sharing product. It was about 11 years old.,Service,2005,2016,2005 - 2016,11
+147,Google Showtimes,Google Showtimes was a standalone movie search result page.,Service,2005,2016,2005 - 2016,11
+148,Pixate,"Pixate was a platform for creating sophisticated animations and interactions, and refining your designs through 100% native prototypes for iOS and Android.",App,2012,2016,2012 - 2016,4
+149,Google Nexus,"Google Nexus was Google's line of flagship Android phones, tablets, and accessories.",Hardware,2010,2016,2010 - 2016,6
+150,Together,Together was a watch face for Android Wear that let two users link their watches together to share small visual messages.,App,2015,2016,2015 - 2016,1
+151,Project Ara,Project Ara was a modular smartphone project under development by Google.,Hardware,2013,2016,2013 - 2016,3
+152,Web Hosting in Google Drive,"Web hosting in Google Drive allowed users to publish live websites by uploading HTML, CSS, and other files.",Service,2012,2016,2012 - 2016,4
+153,Google Swiffy,Google Swiffy was a web-based tool that converted SWF files to HTML5.,Service,2011,2016,2011 - 2016,5
+154,Google Wallet Card,Google Wallet Card was a prepaid debit card that let users pay for things in person and online using their Wallet balance at any retailer that accepted MasterCard.,Hardware,2013,2016,2013 - 2016,3
+155,Nexus Player,"Nexus Player was a digital media player that allowed users to play music, watch video originating from Internet services or a local network, and play games.",Hardware,2014,2016,2014 - 2016,2
+156,Revolv,Revolv was a monitoring and control system that allowed users to control their connected devices from a single hub.,Hardware,2012,2016,2012 - 2016,4
+157,Freebase,"Freebase was a large collaborative knowledge base consisting of structured data composed mainly by its community members, developed by Metaweb(acquired by Google).",Service,2007,2016,2007 - 2016,9
+158,Google Now,Google Now was a feature of Google Search that offered predictive cards with information and daily updates in Chrome and the Google app for Android and iOS.,Service,2012,2016,2012 - 2016,4
+159,MyTracks,"MyTracks was a GPS tracking application for Android which allowed users to track their path, speed, distance, and elevation.",App,2009,2016,2009 - 2016,7
+160,uWeave,uWeave (pronounced “micro weave”) was an implementation of the Weave protocol intended for use on microcontroller-based devices.,App,2015,2016,2015 - 2016,1
+161,Google Compare,"Google Compare allowed consumers to compare several offers ranging from insurance, mortgage, and credit cards.",Service,2015,2016,2015 - 2016,1
+162,Google Maps Coordinate,Google Maps Coordinate was a service for managing mobile workforces with the help of mobile apps and a web-based dashboard.,Service,2012,2016,2012 - 2016,4
+163,Pie,Pie was a work-centric group chat website and app comparable to Slack.,Service,2013,2016,2013 - 2016,3
+164,Google Maps Engine,Google Maps Engine was an online tool for map creation. It enabled you to create layered maps using your data as well as Google Maps data.,Service,2013,2016,2013 - 2016,3
+165,Songza,Songza was a free music streaming service that would recommend its users' various playlists based on time of day and mood or activity.,Service,2007,2016,2007 - 2016,9
+166,Google Code,"Google Code was a service that provided revision control, an issue tracker, and a wiki for code documentation.",Service,2005,2016,2005 - 2016,11
+167,Google Blog Search API,Google Blog Search API was a way to search blogs utilizing Google.,Service,2005,2015,2005 - 2015,10
+168,Google Earth Browser Plug-in,Google Earth Browser Plug-in allowed developers to embed Google Earth into web pages and included a JavaScript API for custom 3D drawing and interaction.,Service,2008,2015,2008 - 2015,7
+169,Timeful,"Timeful was an iOS to-do list and calendar application, developed to reinvent the way that people manage their most precious resource of time.",App,2012,2015,2012 - 2015,3
+170,Picasa,Picasa was an image organizer and image viewer for organizing and editing digital photos.,Service,2002,2015,2002 - 2015,13
+171,Google Flu Trends,Google Flu Trends was a service attempting to make accurate predictions about flu activity.,Service,2008,2015,2008 - 2015,7
+172,Google Catalogs,Google Catalogs was a shopping application that delivered the virtual catalogs of large retailers to users.,Service,2011,2015,2011 - 2015,4
+173,Google Moderator,"Google Moderator was a service that used crowdsourcing to rank user-submitted questions, suggestions, and ideas.",Service,2008,2015,2008 - 2015,7
+174,Android @ Home,"Android @ Home allowed a user’s device to discover, connect, and communicate with devices and appliances in the home.",Service,2011,2015,2011 - 2015,4
+175,Google Helpouts,Google Helpouts was an online collaboration service where users could share their expertise through live video.,Service,2013,2015,2013 - 2015,2
+176,YouTube for PS Vita,YouTube for PlayStation Vita was a native YouTube browsing and viewing application for the PS Vita and PSTV game consoles.,App,2012,2015,2012 - 2015,3
+177,BebaPay,"BebaPay was a form of electronic ticketing platform in Nairobi, Kenya that was developed by Google in partnership with Equity Bank.",Service,2013,2015,2013 - 2015,2
+178,Google Play Edition,Google Play Edition devices were a series of Android smartphones and tablets sold by Google.,Hardware,2013,2015,2013 - 2015,2
+179,Google Glass Explorer Edition,Google Glass Explorer Edition was a wearable computer with an optical head-mounted display and camera that allows the wearer to interact with various applications and the Internet via natural language voice commands.,Hardware,2013,2015,2013 - 2015,2
+180,Word Lens,Word Lens translated text in real time on images by using the viewfinder of a device's camera without the need of an internet connection; The technology was rolled into Google Translate.,App,2010,2015,2010 - 2015,5
+181,Orkut,Orkut was a social network designed to help users meet new and old friends and maintain existing relationships.,Service,2004,2014,2004 - 2014,10
+182,Google TV,Google TV was a smart TV platform that integrated Android and Chrome to create an interactive television overlay.,Hardware,2010,2014,2010 - 2014,4
+183,Quickoffice,"Quickoffice was a productivity suite for mobile devices which allowed the viewing, creating and editing of documents, presentations and spreadsheets.",App,2013,2014,2013 - 2014,1
+184,Google Questions and Answers,Google Questions and Answers was a free knowledge market that allowed users to collaboratively find answers to their questions.,Service,2007,2014,2007 - 2014,7
+185,Wildfire Interactive,"Wildfire by Google was a social marketing application that enabled businesses to create, optimize and measure their presence on social networks.",Service,2012,2014,2012 - 2014,2
+186,BufferBox,BufferBox was a Canadian startup that provided consumers 24/7 convenience of picking up their online purchases.,Service,2012,2014,2012 - 2014,2
+187,SlickLogin,"SlickLogin was an Israeli start-up company which developed sound-based password alternatives, was acquired by Google and hasn't released anything since.",Service,2013,2014,2013 - 2014,1
+188,Google Schemer,Google Schemer was a Google service for sharing and discovering things to do.,Service,2011,2014,2011 - 2014,3
+189,Google Chrome Frame,Google Chrome Frame was a plugin for Internet Explorer that allowed web pages to be displayed using WebKit and the V8 JavaScript engine.,Service,2010,2014,2010 - 2014,4
+190,Google Notifier,Google Notifier alerted users to new emails on their Gmail account.,Service,2005,2014,2005 - 2014,9
+191,Bump!,"Bump! is a discontinued iOS and Android mobile app that enables smartphone users to transfer contact information, photos, and files between devices.",App,2009,2014,2009 - 2014,5
+192,Google Offers,"Google Offers was a service offering discounts and coupons. Initially, it was a deal of the day website similar to Groupon.",Service,2011,2014,2011 - 2014,3
+193,Google Currents,"Google Currents was a social magazine app by Google, which was replaced by Google Play Newsstand.",App,2011,2013,2011 - 2013,2
+194,Google Checkout,Google Checkout was an online payment processing service that aimed to simplify the process of paying for online purchases.,Service,2006,2013,2006 - 2013,7
+195,Google Trader,"Google Trader was a classifieds service run by Google in Ghana, Uganda, Kenya, and Nigeria to help customers trade goods and services online.",Service,2010,2013,2010 - 2013,3
+196,iGoogle,iGoogle was a customizable Ajax-based start page or personal web portal.,Service,2005,2013,2005 - 2013,8
+197,Google Latitude,"Google Latitude was a location-aware feature of Google Maps, a successor to an earlier SMS-based service Dodgeball.",Service,2009,2013,2009 - 2013,4
+198,Google Reader,Google Reader was an RSS/Atom feed aggregator.,Service,2005,2013,2005 - 2013,8
+199,Nexus Q,Nexus Q was a digital media player that allowed users with Android devices to stream content from supported services to a connected television or speakers via an integrated amplifier.,Hardware,2012,2013,2012 - 2013,1
+200,Punchd,Punchd was a digital loyalty card app and service targeted towards small businesses that originated as a student project at Cal Poly in 2009 and was acquired by Google in 2011.,Service,2011,2013,2011 - 2013,2
+201,Building Maker,Building Maker enabled users to create 3D models of buildings for Google Earth on the browser.,Service,2009,2013,2009 - 2013,4
+202,Google Talk,"Often remembered as 'Gchat', Google Talk was a messaging service for both text and voice using XMPP.",Service,2005,2013,2005 - 2013,8
+203,Google SMS,"Google SMS let you text questions- including weather, sports scores, word definitions, and more- to 466453 and get an answer back.",Service,2004,2013,2004 - 2013,9
+204,Google Cloud Connect,Google Cloud Connect was a free cloud computing plugin for multiple versions of Microsoft Office that automatically stored and synchronized files to Google Docs.,Service,2008,2013,2008 - 2013,5
+205,Picnik,"Picnik was an online photo editing service that allowed users to edit, style, crop, and resize images.",Service,2007,2013,2007 - 2013,6
+206,Google Chart API,Google Chart API was an interactive Web service that created graphical charts from user-supplied data.,Service,2007,2012,2007 - 2012,5
+207,Google Mini,Google Mini was a smaller version of the Google Search Appliance.,Hardware,2007,2012,2007 - 2012,5
+208,AdSense for Feeds,AdSense for Feeds was an RSS-based service for AdSense that allowed publishers to advertise on their RSS Feeds.,Service,2008,2012,2008 - 2012,4
+209,Google Listen,"Google Listen was an Android application that let you search, subscribe, download, and stream podcasts and web audio.",App,2009,2012,2009 - 2012,3
+210,Google Refine,Google Refine was a standalone desktop application for data cleanup and transformation to other formats.,Service,2010,2012,2010 - 2012,2
+211,Sparrow,Sparrow was an email client for OS X and iOS. Google acquired and then killed it.,App,2011,2012,2011 - 2012,1
+212,Google Insights for Search,Google Insights for Search was a service used to provide data about terms people searched in Google and was merged into Google Trends.,Service,2008,2012,2008 - 2012,4
+213,Postini,"Postini was an e-mail, Web security, and archiving service that filtered e-mail spam and malware (before it was delivered to a client's mail server), e-mail archiving.",Service,1999,2012,1999 - 2012,13
+214,Google Video,"Google Video was a free video hosting service from Google, similar to YouTube, that allowed video clips to be hosted on Google servers and embedded onto other websites.",Service,2005,2012,2005 - 2012,7
+215,Meebo,Meebo was a browser-based instant messaging application which supported multiple IM services.,Service,2005,2012,2005 - 2012,7
+216,Google Commerce Search,Google Commerce Search was an enterprise search service that powered online retail stores and e-commerce websites that improved speed and accuracy.,Service,2009,2012,2009 - 2012,3
+217,Needlebase,"Needlebase was a point-and-click tool for extracting, sorting and visualizing data from across pages around the web.",Service,2011,2012,2011 - 2012,1
+218,Knol,Knol was a Google project that aimed to include user-written articles on a range of topics.,Service,2008,2012,2008 - 2012,4
+219,Google Wave,Google Wave was an online communication and collaborative real-time editor tool.,Service,2009,2012,2009 - 2012,3
+220,Google Flu Vaccine Finder,Google Flu Vaccine Finder was a maps mash-up that showed nearby vaccination places across the United States.,Service,2009,2012,2009 - 2012,3
+221,Google One Pass,Google One Pass was an online store developed by Google for media publishers looking to sell subscriptions to their content.,Service,2011,2012,2011 - 2012,1
+222,Google Related,Google Related was introduced to be an experimental navigation assistant launched to help people find useful and interesting information while surfing the web.,Service,2011,2012,2011 - 2012,1
+223,Urchin,Urchin was a web statistics analysis program developed by Urchin Software Corporation. It analyzed web server log file content and displayed the traffic information on that website based upon the log data.,Service,2005,2012,2005 - 2012,7
+224,Slide,Slide was a photo sharing software for social networking services such as MySpace and Facebook. Later Slide began to make applications and became the largest developer of third-party applications for Facebook.,Service,2005,2012,2005 - 2012,7
+225,Google Friend Connect,Google Friend Connect was a free social networking site from 2008 to 2012.,Service,2008,2012,2008 - 2012,4
+226,Jaiku,"Jaiku was a social networking, micro-blogging and lifestreaming service comparable to Twitter.",Service,2006,2012,2006 - 2012,6
+227,Google Code Search,Google Code Search was a free beta product which allowed users to search for open-source code on the Internet.,Service,2006,2012,2006 - 2012,6
+228,Google Health,Google Health was a personal health information centralization service that provided users a merged health record from multiple sources.,Service,2008,2012,2008 - 2012,4
+229,Noop Programming Language,Noop was a project by Google engineers Alex Eagle and Christian Gruber aiming to develop a new programming language that attempted to blend the best features of 'old' and 'new' languages and best practices.,Service,2009,2011,2009 - 2011,2
+230,Apture,Apture was a service that allowed publishers and bloggers to link and incorporate multimedia into a dynamic layer above their pages.,Service,2007,2011,2007 - 2011,4
+231,Google Buzz,"Google Buzz was a social networking, microblogging and messaging tool that integrated with Gmail.",Service,2010,2011,2010 - 2011,1
+232,Gears,Gears (aka Google Gears) was utility software that aimed to create more powerful web apps by adding offline storage and other additional features to web browsers.,Service,2007,2011,2007 - 2011,4
+233,Google Notebook,Google Notebook allowed users to save and organize clips of information while conducting research online.,Service,2008,2011,2008 - 2011,3
+234,ZygoteBody,"ZygoteBody, formerly Google Body, is a web application by Zygote Media Group that renders manipulable 3D anatomical models of the human body.",Service,2010,2011,2010 - 2011,1
+235,Google PowerMeter,Google PowerMeter was a software project of Google's philanthropic arm that helped consumers track their home electricity usage.,Service,2009,2011,2009 - 2011,2
+236,Google Squared,Google Squared was an information extraction and relationship extraction product that compiled structured data into a spreadsheet-like format.,Service,2009,2011,2009 - 2011,2
+237,Google Sidewiki,Google Sidewiki was a browser sidebar tool that allowed users to contribute information to any web page.,Service,2009,2011,2009 - 2011,2
+238,Aardvark,Aardvark was a social search service that connected users live with friends or friends-of-friends who were able to answer their questions.,Service,2009,2011,2009 - 2011,2
+239,Google Pack,"Google Pack was a collection of software tools offered by Google to download in a single archive. It was announced at the 2006 Consumer Electronics Show, on January 6. Google Pack was only available for Windows XP, Windows Vista, and Windows 7.",Service,2006,2011,2006 - 2011,5
+240,Google Desktop,"Google Desktop allowed local searches of a user's emails, computer files, music, photos, chats and Web pages viewed.",Service,2008,2011,2008 - 2011,3
+241,Google Fast Flip,"Google Fast Flip was an online news aggregator, something of a high tech microfiche.",Service,2009,2011,2009 - 2011,2
+242,Google Dictionary,Google Dictionary was a standalone online dictionary service.,Service,2009,2011,2009 - 2011,2
+243,Google Labs,Google Labs was a technology playground used by Google to demonstrate and test new projects.,Service,2002,2011,2002 - 2011,9
+244,Google Rebang,"Rebang was a Zeitgeist-like service centered on providing service to a Chinese audience. It was incorporated into Google Labs as of late 2010, and later discontinued along with its parent project.",Service,2007,2011,2007 - 2011,4
+245,Google Directory,Google Directory was an Internet website directory organized into 14 main categories that allowed users to explore the web.,Service,2000,2011,2000 - 2011,11
+246,Google Image Swirl,Google Image Swirl was an enhancement to the image search tool that came out of Google Labs. It is built on top of image search by grouping images with similar visual and semantic qualities.,Service,2009,2011,2009 - 2011,2
+247,Google Real-Time Search,"Google Real-Time Search provided live search results from Twitter, Facebook, and news websites.",Service,2009,2011,2009 - 2011,2
+248,Google Script Converter,"Google Script Converter was an online transliteration tool for transliteration (script conversion) between Hindi, Romanagari, and various other scripts. It's ended because Google shut down Google Labs and all associated projects.",Service,2009,2011,2009 - 2011,2
+249,Google Sets,"Google Sets generates a list of items when users enter a few examples. For example, entering ""Green, Purple, Red"" emits the list ""Green, Purple, Red, Blue, Black, White, Yellow, Orange, Brown"".",Service,2002,2011,2002 - 2011,9
+250,Google Specialized Search,"Google Specialized Search allowed users to search across a limited index of the web for specialized topics like Linux, Microsoft, and 'Uncle Sam.'",Service,1997,2011,1997 - 2011,14
+251,Google Hotpot,"Google Hotpot was a local recommendation engine that allowed people to rate restaurants, hotels, etc. and share them with friends.",Service,2010,2011,2010 - 2011,1
+252,Gizmo5,Gizmo5 was a VOIP communications network and a proprietary freeware soft phone for that network.,Service,2009,2011,2009 - 2011,2
+253,Real Estate On Google Maps,Real Estate on Google Maps enabled users to find places for sale or rent in an area they were interested in.,Service,2009,2011,2009 - 2011,2
+254,fflick,"fflick was a review, information, and news website that used information from aggregated Tweets to rate movies as positive or negative.",Service,2010,2011,2010 - 2011,1
+255,Google Base,"Google Base was a database provided by Google into which any user can add almost any type of content, such as text, images, and structured information.",Service,2005,2010,2005 - 2010,5
+256,GOOG-411,GOOG-411 (or Google Voice Local Search) was a telephone service that provided a speech-recognition-based business directory search.,Service,2007,2010,2007 - 2010,3
+257,BumpTop,BumpTop was a skeuomorphic desktop environment app that simulates the normal behavior and physical properties of a real-world desk and enhances it with automatic tools to organize its contents.,Service,2008,2010,2008 - 2010,2
+258,Google SearchWiki,SearchWiki was a Google Search feature which allowed logged-in users to annotate and re-order search results.,Service,2008,2010,2008 - 2010,2
+259,YouTube Streams,YouTube Streams allowed users to watch a YouTube video together while chatting about the video in real-time.,Service,2006,2010,2006 - 2010,4
+260,Marratech e-meetings,"Marratech was a Swedish company that made software for e-meetings (e.g., web conferencing, videoconferencing).",Service,1998,2010,1998 - 2010,12
+261,Google Web APIs,The Google Web APIs were a free SOAP service for doing Google searches so that developers could use the results in almost any way they wanted.,Service,2002,2009,2002 - 2009,7
+262,Google Ride Finder,"Google Ride Finder was a service that used GPS data to pinpoint and map the location of taxis, limos, and shuttle vehicles available for hire in 10 U.S. metro areas.",Service,2005,2009,2005 - 2009,4
+263,Google Toolbar for Firefox,Google Toolbar for Firefox,Service,2005,2009,2005 - 2009,4
+264,Google Radio Automation,Google Radio Automation was a hardware and software service used by radio operators to automate song playing among other radio station functions.,Hardware,2007,2009,2007 - 2009,2
+265,On2 Flix Cloud,Flix Cloud was a high-capacity online video encoding service.,Service,2008,2009,2008 - 2009,1
+266,Google Mashup Editor,"Google Mashup Editor was an online web mashup creation service with publishing, syntax highlighting, and debugging.",Service,2007,2009,2007 - 2009,2
+267,Google Shared Stuff,Google Shared Stuff was a web page sharing system that allowed users to bookmark pages and share them.,Service,2007,2009,2007 - 2009,2
+268,Grand Central,"Grand Central was a Voice over IP service that was acquired by Google, and turned into Google Voice.",Service,2005,2009,2005 - 2009,4
+269,Dodgeball,"Dodgeball was a location-based social network where users texted their location to the service, and it notified them of friends and points of interest nearby.",Service,2003,2009,2003 - 2009,6
+270,Google Audio Ads,Google Audio Ads service allowed advertisers to run campaigns on AM/FM radio stations in the US using the AdWords interface.,Service,2008,2009,2008 - 2009,1
+271,Google Lively,Google Lively was a web-based virtual environment that provided a new way to access information.,Service,2008,2008,2008 - 2008,0
+272,SearchMash,"SearchMash was an experimental, non-branded search engine that Google used to be able to play around with new search technologies, concepts, and interfaces.",Service,2006,2008,2006 - 2008,2
+273,Google Page Creator,Google Page Creator was a website creation and hosting service that allowed users to build basic websites with no HTML knowledge.,Service,2006,2008,2006 - 2008,2
+274,Send to Phone,Google Send to Phone was an add-on to send links and other information from Firefox to their phone by text message.,Service,2006,2008,2006 - 2008,2
+275,Google Browser Sync,Google Browser Sync was a Firefox extension that synced information like passwords and browsing history.,Service,2006,2008,2006 - 2008,2
+276,Hello,"Hello was a service by Picasa that let users share pictures ""like you're sitting side-by-side.""",Service,2002,2008,2002 - 2008,6
+277,Google Web Accelerator,Google Web Accelerator was a client-side software that increased the load speed of web pages.,Service,2005,2008,2005 - 2008,3
+278,Zeitgeist,"Google Zeitgeist was a weekly, monthly, and yearly snapshot in time of what people were searching for on Google all over the world.",Service,2001,2007,2001 - 2007,6
+279,Google Click-to-Call,Google Click-to-Call allowed a user to speak directly over the phone to businesses found in search results.,Service,2004,2007,2004 - 2007,3
+280,Google Video Player,The Google Video Player plays back files in Google's own Google Video File (.gvi) media format and supported playlists in 'Google Video Pointer' (.gvp) format.,Service,2006,2007,2006 - 2007,1
+281,Google Video Marketplace,Google Video Marketplace was a service that included a store where videos could be bought and rented.,Service,2006,2007,2006 - 2007,1
+282,Google Answers,Google Answers was an online knowledge market.,Service,2002,2006,2002 - 2006,4
+283,Writely,Writely was a Web-based word processor.,Service,2005,2006,2005 - 2006,1
+284,Google Public Service Search,"Google Public Service Search provided governmental, non-profit and academic organizational search results without ads.",Service,2002,2006,2002 - 2006,4
+285,Google Deskbar,Google Deskbar was a small inset window on the Windows toolbar and allowed users to perform searches without leaving the desktop.,Service,2003,2006,2003 - 2006,3
